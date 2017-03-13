@@ -70,6 +70,9 @@ List of software packages (and the people developing these methods) for single-c
 - [TSCAN](https://github.com/zji90/TSCAN) - [R] - Pseudo-time reconstruction and evaluation in single-cell RNA-seq analysis.
 - [ZIFA](https://github.com/epierson9/ZIFA) - [Python] - Zero-inflated dimensionality reduction algorithm for single-cell data. 
 
+## ATAC-seq
+
+- [chromVar](http://biorxiv.org/content/early/2017/02/21/110346) - [R] - Inferring transcription factor variation from single-cell epigenomic data.
 
 ### Copy number analysis
 
@@ -126,6 +129,7 @@ List of software packages (and the people developing these methods) for single-c
 ### Methods comparisons
 
 - [Comparative analysis of single-cell RNA sequencing methods](http://biorxiv.org/content/early/2016/06/29/035758) - a comparison of wet lab protocols for scRNA sequencing.
+- [Power analysis of single-cell RNA-sequencing experiments](http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4220.html)
 
 ## Similar lists and collections
 
