@@ -73,6 +73,7 @@ List of software packages (and the people developing these methods) for single-c
 ## ATAC-seq
 
 - [chromVar](http://biorxiv.org/content/early/2017/02/21/110346) - [R] - Inferring transcription factor variation from single-cell epigenomic data.
+- [gkm-PCA](http://biorxiv.org/content/early/2017/04/20/126268) - [R] - Deciphering Variance In Epigenomic Regulators By k-mer Factorization
 
 ### Copy number analysis
 
