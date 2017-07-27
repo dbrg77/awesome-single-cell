@@ -12,6 +12,7 @@ List of software packages or other useful resource (and the people developing th
 - [BASiCS](https://github.com/catavallejos/BASiCS) - [R] - Bayesian Analysis of single-cell RNA-seq data. Estimates cell-specific normalization constants. Technical variability is quantified based on spike-in genes. The total variability of the expression counts is decomposed into technical and biological components. BASiCS can also identify genes with differential expression/over-dispersion between two or more groups of cells. 
 - [bonvoyage](https://github.com/yeolab/bonvoyage) - [Python] - 📐 Transform percentage-based units into a 2d space to evaluate changes in distribution with both magnitude and direction.
 - [BPSC](https://github.com/nghiavtr/BPSC) - [R] - Beta-Poisson model for single-cell RNA-seq data analyses
+- [BUDS](http://www.biorxiv.org/content/early/2017/07/18/163915) - [R] - Bayesian Unidimensional Scaling for visualizing uncertainty in high dimensional datasets with latent ordering of observations
 - [Cellity](https://github.com/teichlab/cellity) - [R] - Classification of low quality cells in scRNA-seq data using R
 - [cellTree](https://www.bioconductor.org/packages/3.3/bioc/html/cellTree.html) - [R] - Cell population analysis and visualization from single cell RNA-seq data using a Latent Dirichlet Allocation model.
 - [Census](http://www.nature.com/nmeth/journal/v14/n3/abs/nmeth.4150.html) - [R] - Main feature introduced in Monocle 2.1.0.
@@ -26,6 +27,7 @@ List of software packages or other useful resource (and the people developing th
 - [GiniClust](https://github.com/lanjiangboston/GiniClust) - [Python/R] - GiniClust is a clustering method implemented in Python and R for detecting rare cell-types from large-scale single-cell gene expression data.  GiniClust can be applied to datasets originating from different platforms, such as multiplex qPCR data, traditional single-cell RNAseq or newly emerging UMI-based single-cell RNAseq, e.g. inDrops and Drop-seq.
 - [HocusPocus](https://github.com/joeburns06/hocuspocus) - [R] - Basic PCA-based workflow for analysis and plotting of single cell RNA-seq data.
 - [MAST](https://github.com/RGLab/MAST) - [R] - Model-based Analysis of Single-cell Transcriptomics (MAST) fits a two-part, generalized linear models that are specially adapted for bimodal and/or zero-inflated single cell gene expression data.
+- [MATCHER](https://github.com/jw156605/MATCHER) - [python] - Manifold Alignment to Characterize Experimental Relationships
 - [K-Branches](https://github.com/theislab/kbranches) - [R] - The main idea behind the K-Branches method is to identify regions of interest (branching regions and tips) in differentiation trajectories of single cells. So far, K-Branches is intended to be used on the diffusion map representation of the data, so the user should either provide the data in diffusion map space or use the destiny package perform diffusion map dimensionality reduction.
 - [M3Drop](https://github.com/tallulandrews/M3Drop) - [R] - Michaelis-Menten Modelling of Dropouts for scRNASeq.
 - [MAST](https://github.com/RGLab/MAST) - [R] - Model-based Analysis of Single-cell Transcriptomics (MAST) fits a two-part, generalized linear models that are specially adapted for bimodal and/or zero-inflated single cell gene expression data
@@ -77,6 +79,7 @@ List of software packages or other useful resource (and the people developing th
 
 - [chromVar](http://biorxiv.org/content/early/2017/02/21/110346) - [R] - Inferring transcription factor variation from single-cell epigenomic data.
 - [gkm-PCA](http://biorxiv.org/content/early/2017/04/20/126268) - [R] - Deciphering Variance In Epigenomic Regulators By k-mer Factorization
+- [Cicero](http://www.biorxiv.org/content/early/2017/06/26/155473) - [R] - Single-cell ATAC-seq trajectory using graphical LASSO.
 
 ### Copy number analysis
 
