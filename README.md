@@ -48,11 +48,11 @@ List of software packages or other useful resource (and the people developing th
 - [SCDE](https://github.com/hms-dbmi/scde) - [R] - Differential expression using error models and overdispersion-based identification of important gene sets.
 - [SCell](https://github.com/diazlab/SCell) - [matlab] - SCell is an integrated software tool for quality filtering, normalization, feature selection, iterative dimensionality reduction, clustering and the estimation of gene-expression gradients from large ensembles of single-cell RNA-seq datasets. SCell is open source, and implemented with an intuitive graphical interface.
 - [SCIMITAR](https://github.com/dimenwarper/scimitar) - [Python] - Single Cell Inference of Morphing Trajectories and their Associated Regulation module (SCIMITAR) is a method for inferring biological properties from a pseudotemporal ordering. It can also be used to obtain progression-associated genes that vary along the trajectory, and genes that change their correlation structure over the trajectory; progression co-associated genes.
-- [scLVM](https://github.com/PMBio/scLVM) - [R] - scLVM is a modelling framework for single-cell RNA-seq data that can be used to dissect the observed heterogeneity into different sources, thereby allowing for the correction of confounding sources of variation.  scLVM was primarily designed to account for cell-cycle induced variations in single-cell RNA-seq data where cell cycle is the primary soure of variability. 
+- [scLVM](https://github.com/PMBio/scLVM) - [R] - scLVM is a modelling framework for single-cell RNA-seq data that can be used to dissect the observed heterogeneity into different sources, thereby allowing for the correction of confounding sources of variation.  scLVM was primarily designed to account for cell-cycle induced variations in single-cell RNA-seq data where cell cycle is the primary soure of variability.
 - [SCnorm](https://github.com/rhondabacher/SCnorm) - [R] - A quantile regression based approach for robust normalization of single cell RNA-seq data.
 - [SCONE](https://github.com/YosefLab/scone) - [R] - SCONE (Single-Cell Overview of Normalized Expression), a package for single-cell RNA-seq data quality control (QC) and normalization. This data-driven framework uses summaries of expression data to assess the efficacy of normalization workflows.
 - [SCORPIUS](https://github.com/rcannood/SCORPIUS) - [R] - SCORPIUS an unsupervised approach for inferring developmental chronologies from single-cell RNA sequencing data. It accurately reconstructs trajectories for a wide variety of dynamic cellular processes. The performance was evaluated using a new, quantitative evaluation pipeline, comparing the performance of current state-of-the-art techniques on 10 publicly available single-cell RNA sequencing datasets. It automatically identifies marker genes, speeding up knowledge discovery.
-- [SCOUP](https://github.com/hmatsu1226/SCOUP) - [C++] - Uses probabilistic model based on the Ornstein-Uhlenbeck process to analyze single-cell expression data during differentiation. 
+- [SCOUP](https://github.com/hmatsu1226/SCOUP) - [C++] - Uses probabilistic model based on the Ornstein-Uhlenbeck process to analyze single-cell expression data during differentiation.
 - [scran](http://bioconductor.org/packages/scran) - [R] - This package implements a variety of low-level analyses of single-cell RNA-seq data. Methods are provided for normalization of cell-specific biases, pool-based norms to estimate size factors, assignment of cell cycle phase, and detection of highly variable and significantly correlated genes.
 - [scTDA](https://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.3854.html) - [Python] - Single-cell topological RNA-seq analysis reveals insights into cellular differentiation and development
 - [SCRAT](https://github.com/zji90/SCRAT) - [R] - SCRAT provides essential tools for users to read in single-cell regolome data (ChIP-seq, ATAC-seq, DNase-seq) and summarize into different types of features. It also allows users to visualize the features, cluster samples and identify key features.
@@ -68,19 +68,21 @@ List of software packages or other useful resource (and the people developing th
 - [slingshot](https://github.com/kstreet13/slingshot) - [R] - Functions for identifying and characterizing continuous developmental trajectories in single-cell sequencing data.
 - [SPADE](http://www.nature.com/nprot/journal/v11/n7/full/nprot.2016.066.html) - [R] - Visualization and cellular hierarchy inference of single-cell data using SPADE.
 - [splatter](http://bioconductor.org/packages/splatter/) - [R] - Splatter is a package for the simulation of single-cell RNA sequencing count data. It provides a simple interface for creating complex simulations that are reproducible and well-documented.
-- [SPRING](https://github.com/AllonKleinLab/SPRING) - [matlab, javascript, python] - SPRING is a collection of pre-processing scripts and a web browser-based tool for visualizing and interacting with high dimensional data. SPRING was developed for single cell RNA-Seq data but can be applied more generally. 
+- [SPRING](https://github.com/AllonKleinLab/SPRING) - [matlab, javascript, python] - SPRING is a collection of pre-processing scripts and a web browser-based tool for visualizing and interacting with high dimensional data. SPRING was developed for single cell RNA-Seq data but can be applied more generally.
 - [switchde](http://github.com/kieranrcampbell/switchde) - [R] - Differential expression analysis across pseudotime. Identify genes that exhibit switch-like up or down regulation along single-cell trajectories along with where in the trajectory the regulation occurs.
 - [TopSLAM](https://github.com/mzwiessele/topslam) - [python] - Extracting and using probabilistic Waddington's landscape recreation from single cell gene expression measurements.
 - [TraCeR](http://github.com/teichlab/tracer) - [python] - Reconstruction of T-Cell receptor sequences from single-cell RNA-seq data.
 - [TRAPeS](https://github.com/yoseflab/trapes) - [python, C++] - TRAPeS (TCR Reconstruction Algorithm for Paired-End Single-cell), a software for reconstruction of T cell receptors (TCR) using short, paired-end single-cell RNA-sequencing.
 - [TSCAN](https://github.com/zji90/TSCAN) - [R] - Pseudo-time reconstruction and evaluation in single-cell RNA-seq analysis.
-- [ZIFA](https://github.com/epierson9/ZIFA) - [Python] - Zero-inflated dimensionality reduction algorithm for single-cell data. 
+- [ZIFA](https://github.com/epierson9/ZIFA) - [Python] - Zero-inflated dimensionality reduction algorithm for single-cell data.
 
 ## ATAC-seq
 
 - [chromVar](http://biorxiv.org/content/early/2017/02/21/110346) - [R] - Inferring transcription factor variation from single-cell epigenomic data.
 - [gkm-PCA](http://biorxiv.org/content/early/2017/04/20/126268) - [R] - Deciphering Variance In Epigenomic Regulators By k-mer Factorization
 - [Cicero](http://www.biorxiv.org/content/early/2017/06/26/155473) - [R] - Single-cell ATAC-seq trajectory using graphical LASSO.
+- [SCRAT](https://github.com/zji90/SCRAT) - [R] - Single-Cell Regulome Analysis Tool
+- [Latent Semantic Indexing](http://science.sciencemag.org/content/348/6237/910) - Multiplex single-cell profiling of chromatin accessibility by combinatorial cellular indexing
 
 ### Copy number analysis
 
@@ -97,14 +99,14 @@ List of software packages or other useful resource (and the people developing th
 - [MAGIC]( https://github.com/pkathail/magic) - [python] - [MAGIC: A diffusion-based imputation method reveals gene-gene interactions in single-cell RNA-sequencing data](http://www.biorxiv.org/content/early/2017/02/25/111591)
 
 ## Tutorials and workflows
- 
+
 - [Aaron Lun's Single Cell workflow on Bioconductor](http://bioconductor.org/help/workflows/simpleSingleCell/) - [R] - This article describes a computational workflow for basic analysis of scRNA-seq data using software packages from the open-source Bioconductor project.
 - [Bioconductor2016 Single-cell-RNA-sequencing workshop by Sandrine Dudoit lab](https://github.com/drisso/bioc2016singlecell) - [R] - SCONE, clusterExperiment, and slingshot tutorial.
 - [BiomedCentral Single Cell Omics collectin](http://www.biomedcentral.com/collections/singlecellomics) - collection of papers describing techniques for single-cell analysis and protocols.
 - [CSHL Single Cell Analysis - Bioinformatics](https://github.com/YeoLab/single-cell-bioinformatics/) course materials - Uses Shalek 2013 and Macaulay 2016 datasets to teach machine learning to biologists
 - [Festival of Genomics California Single Cell Workshop](https://kdkorthauer.github.io/FestivalWorkshopVignettes/) - [R] - Explores basic workflow from exploratory data analysis to normalization and downstream analyses using a dataset of 1679 cells from the Allen Brain Atlas.
-- [Gilad Lab Single Cell Data Exploration](http://jdblischak.github.io/singleCellSeq/analysis/) - R-based exploration of single cell sequence data. Lots of experimentation. 
-- [Harvard STEM Cell Institute Single Cell Workshop 2015](http://hms-dbmi.github.io/scw/) - workshop on common computational analysis techniques for scRNA-seq data from differential expression to subpopulation identification and network analysis. [See course description for more information](http://scholar.harvard.edu/jeanfan/classes/single-cell-workshop-2015) 
+- [Gilad Lab Single Cell Data Exploration](http://jdblischak.github.io/singleCellSeq/analysis/) - R-based exploration of single cell sequence data. Lots of experimentation.
+- [Harvard STEM Cell Institute Single Cell Workshop 2015](http://hms-dbmi.github.io/scw/) - workshop on common computational analysis techniques for scRNA-seq data from differential expression to subpopulation identification and network analysis. [See course description for more information](http://scholar.harvard.edu/jeanfan/classes/single-cell-workshop-2015)
 - [Hemberg Lab scRNA-seq course materials](http://hemberg-lab.github.io/scRNA.seq.course/index.html) 
 - [Using Seurat for unsupervised clustering and biomarker discovery](http://www.satijalab.org/seurat-intro.html) - 301 single cells across diverse tissues from (Pollen et al., Nature Biotechnology, 2014)
 - [Using Seurat for spatial inference in single-cell data](http://www.satijalab.org/seurat-intro.html) - 851 single cells from Zebrafish embryogenesis (Satija*, Farrell* et al., Nature Biotechnology, 2015)
@@ -147,11 +149,11 @@ List of software packages or other useful resource (and the people developing th
 
 ## People
 
-Gender bias at conferences is a well known problem ([http://www.sciencemag.org/careers/2015/07/countering-gender-bias-conferences](http://www.sciencemag.org/careers/2015/07/countering-gender-bias-conferences)). Creating a list of potential speakers can help mitigate this bias and a community of people developing and maintaining helps to further diversify this list beyond smaller networks. 
+Gender bias at conferences is a well known problem ([http://www.sciencemag.org/careers/2015/07/countering-gender-bias-conferences](http://www.sciencemag.org/careers/2015/07/countering-gender-bias-conferences)). Creating a list of potential speakers can help mitigate this bias and a community of people developing and maintaining helps to further diversify this list beyond smaller networks.
 
 ### Female
 
-- [Christina Kendziorski (University of Wisconsin–Madison, USA)](https://www.biostat.wisc.edu/~kendzior/) 
+- [Christina Kendziorski (University of Wisconsin–Madison, USA)](https://www.biostat.wisc.edu/~kendzior/)
 - [Sandrine Dudoit (UC Berkeley, USA)](http://www.stat.berkeley.edu/~sandrine/)
 - [Keegan Korthauer (Dana Farber Cancer Institute, USA)](http://bcb.dfci.harvard.edu/~keegan/)
 - [Stephanie Hicks (Dana Farber Cancer Institute, USA)](http://www.stephaniehicks.com/)
