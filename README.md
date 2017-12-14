@@ -79,10 +79,12 @@ List of software packages or other useful resource (and the people developing th
 ## ATAC-seq
 
 - [chromVar](http://biorxiv.org/content/early/2017/02/21/110346) - [R] - Inferring transcription factor variation from single-cell epigenomic data.
-- [gkm-PCA](http://biorxiv.org/content/early/2017/04/20/126268) - [R] - Deciphering Variance In Epigenomic Regulators By k-mer Factorization
+- [gkm-PCA](http://biorxiv.org/content/early/2017/04/20/126268) - [R] - Deciphering Variance In Epigenomic Regulators By k-mer Factorization.
 - [Cicero](http://www.biorxiv.org/content/early/2017/06/26/155473) - [R] - Single-cell ATAC-seq trajectory using graphical LASSO.
 - [SCRAT](https://github.com/zji90/SCRAT) - [R] - Single-Cell Regulome Analysis Tool
-- [Latent Semantic Indexing](http://science.sciencemag.org/content/348/6237/910) - Multiplex single-cell profiling of chromatin accessibility by combinatorial cellular indexing
+- [Latent Semantic Indexing](http://science.sciencemag.org/content/348/6237/910) - Multiplex single-cell profiling of chromatin accessibility by combinatorial cellular indexing.
+- [scABC](https://www.biorxiv.org/content/early/2017/12/04/143701) - [R] - single cell Accessibility Based Clustering.
+- [Scasat](https://www.biorxiv.org/content/early/2017/11/30/227397) - [R] - single-cell ATAC-seq analysis tool.
 
 ### Copy number analysis
 
